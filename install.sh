@@ -1,0 +1,1 @@
+sudo apt update && sudo apt upgrade && sudo apt install python && sudo apt install tsu && sudo apt install root-repo && sudo apt install wpa-supplicant && sudo apt install pixiewps && sudo apt install iw && sudo apt install openssl
